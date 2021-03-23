@@ -1,8 +1,7 @@
-engines:
-  tailor:
+plugins:
+  swiftlint:
     enabled: true
-ratings:
-  paths:
-    - "**.swift"
-exclude_paths:
-  - Carthage
+
+excluded_patterns:
+  - FlappyBirdTests/**
+  - FlappyBird
