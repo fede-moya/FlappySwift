@@ -1,7 +1,3 @@
 plugins:
   swiftlint:
     enabled: true
-
-excluded_patterns:
-  - FlappyBirdTests/**
-  - FlappyBird
