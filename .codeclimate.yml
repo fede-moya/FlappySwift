@@ -1,3 +1,4 @@
 plugins:
   swiftlint:
     enabled: true
+    channel: swiftlint-0-43
